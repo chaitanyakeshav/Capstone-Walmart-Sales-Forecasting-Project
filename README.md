@@ -8,7 +8,7 @@
  next 12 weeks for each stores.
 
  **Approach:**
-Exploratory data analysis was done to understand what's happening in general and on store level. Time series forecasting models (ARIMA) were used for each store. Coded a loop in python using Auto Arima to find best models storewise and making predictions. (One can go with making series stationary and ploting ACF and PACF then figuring out the best model and do their predictions but would take a lot of time and effort.)
+Exploratory data analysis was done to understand what's happening in general and on store level. Time series forecasting models (SARIMA) were used for each store. Coded a loop in python using Auto Arima to find best models storewise and making predictions. (One can go with making series stationary and ploting ACF and PACF then figuring out the best model and do their predictions but would take a lot of time and effort.)
 
  **Files:**
  
