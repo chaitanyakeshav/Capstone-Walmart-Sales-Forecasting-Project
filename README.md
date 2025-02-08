@@ -1,8 +1,8 @@
 # Capstone-Walmart-Sales-Forecasting-Project
 
-** Summary:**
+**Summary:**
 
-** Problem Statement :**
+**Problem Statement :**
   A retail store that has multiple outlets across the country are facing issues in managing the
  inventory- to match the demand with respect to supply. Use insights using the data and make prediction models to forecast the sales for
  next 12 weeks for each stores.
@@ -18,7 +18,7 @@ Exploratory data analysis was done to understand what's happening in general and
  
  **Python code file/ Jupyter Notebook:** walmart.ipynb
  
-** Store specific model summary:** sales_forecasting_summary_dynamic.csv
+**Store specific model summary:** sales_forecasting_summary_dynamic.csv
 
-** Forecast for next 12 weeks:** combined_future_forecast_dynamic.csv
+**Forecast for next 12 weeks:** combined_future_forecast_dynamic.csv
 
