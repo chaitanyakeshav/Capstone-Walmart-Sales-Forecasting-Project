@@ -17,6 +17,8 @@ Exploratory data analysis was done to understand what's happening in general and
  **Dataset:** walmart.csv
  
  **Python code file/ Jupyter Notebook:** walmart.ipynb
+
+ **Project Report:** Project report Walmart.pdf
  
 **Store specific model summary:** sales_forecasting_summary_dynamic.csv
 
